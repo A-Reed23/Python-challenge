@@ -1,0 +1,12 @@
+                Finacial Analysis   
+----------------------------------------------------------
+
+ Total Months: 86
+ 
+ Total Proffits: 22564198
+ 
+ Average Change: $-8311.11
+ 
+ Greatest Proffit: ($1862002) 
+ 
+ Greatest Loss: ($-1825558) 
